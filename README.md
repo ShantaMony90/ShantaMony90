@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shanta Mony
 #### Web Developer 
-![Web Developer ](https://pbs.twimg.com/media/GUeiaSOa8AUM1eo?format=jpg&name=4096x4096)
+![Web Developer ](https://pbs.twimg.com/media/GUeiaSOa8AUM1eo?format=jpg&name=3096x3096)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
